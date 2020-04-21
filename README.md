@@ -18,4 +18,4 @@ The test is simple to understand, and so far impossible to prove. It has been ta
 
 - [ ] Get largest sequence length every 10th iteration
 - [ ] Visualize stop time of iteration via matplotlib maybe?
-- [ ] Maybe write data to text file
+- [x] Maybe write data to text file
