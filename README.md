@@ -14,3 +14,8 @@ The test is simple to understand, and so far impossible to prove. It has been ta
  1. This implementation is in Python, and I will only do it on my personal machine, not utilizing any GPU, external performance boosters, or a more efficient programming language, and will therefore run into a `MemoryError` at some point.
  2. The purpose of this implementation is not to prove the conjecture, but rather make an attempt to visualize, represent, and analyze the problem. 
 
+## Roadmap
+
+- [ ] Get largest sequence length every 10th iteration
+- [ ] Visualize stop time of iteration via matplotlib maybe?
+- [ ] Maybe write data to text file
